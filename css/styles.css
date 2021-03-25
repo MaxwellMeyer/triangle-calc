@@ -14,5 +14,5 @@ body {
 }
 
 .triangle {
-  
+  display: flex;
 }
