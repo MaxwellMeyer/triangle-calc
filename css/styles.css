@@ -3,9 +3,16 @@
 }
 .jumbotron {
   text-align: center;
-  background: 
+  background: rgb(79, 244, 244);
+  color: orangered;
+  text-shadow: 1px 1px rgb(16, 92, 255);
 }
 
 body {
-  background-color: darksalmon;
+  height: 100vh;
+  background: linear-gradient(to right, darkseagreen, darksalmon);
+}
+
+.triangle {
+  
 }
